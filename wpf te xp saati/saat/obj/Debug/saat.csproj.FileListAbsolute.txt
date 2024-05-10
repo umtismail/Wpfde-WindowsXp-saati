@@ -1,0 +1,26 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\bin\Debug\saat.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\bin\Debug\saat.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\bin\Debug\saat.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\saat_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\saat.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\saat.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\saat.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\saat.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\saat.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\saat\saat\obj\Debug\saat.csprojResolveAssemblyReference.cache
+D:\Dosyalar\visual\12 sınıf\saat\saat\bin\Debug\saat.exe.config
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\saat.exe
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\saat.pdb
+D:\Dosyalar\visual\12 sınıf\saat\saat\bin\Debug\saat.exe
+D:\Dosyalar\visual\12 sınıf\saat\saat\bin\Debug\saat.pdb
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\saat.csprojResolveAssemblyReference.cache
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\MainWindow.baml
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\MainWindow.g.cs
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\App.g.cs
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\saat_MarkupCompile.cache
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\saat.g.resources
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\saat.Properties.Resources.resources
+D:\Dosyalar\visual\12 sınıf\saat\saat\obj\Debug\saat.csproj.GenerateResource.Cache
